@@ -21,3 +21,5 @@ Youtube での撮影用に練習で Youtube を模写いたしました。
 Youtube URL:https://www.youtube.com/channel/UCKOgDGUgEJtkRFQMha9TyDQ
 
 Blog URL: https://guntaro.blog
+
+Thank you for Reading !!
