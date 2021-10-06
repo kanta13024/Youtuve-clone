@@ -59,7 +59,7 @@ function SlideSidebar({ linkHome }) {
           <ListItemText>ホーム</ListItemText>
         </ListItem>
 
-        <a href="https:/guntaro.blog">
+        <a href="https://guntaro.blog/">
           <ListItem className="hover:bg-gray-200 cursor-pointer active:scale-90 transition duration-200">
             <ListItemIcon>
               <ExploreIcon />
@@ -68,7 +68,7 @@ function SlideSidebar({ linkHome }) {
           </ListItem>
         </a>
 
-        <a href="https:/guntaro.blog">
+        <a href="https://guntaro.blog/">
           <ListItem className="hover:bg-gray-200 cursor-pointer active:scale-90 transition duration-200">
             <ListItemIcon>
               <SubscriptionsIcon />
@@ -77,7 +77,7 @@ function SlideSidebar({ linkHome }) {
           </ListItem>
         </a>
 
-        <a href="https:/guntaro.blog">
+        <a href="https://guntaro.blog/">
           <ListItem className="hover:bg-gray-200 cursor-pointer active:scale-90 transition duration-200">
             <ListItemIcon>
               <DynamicFeedIcon />

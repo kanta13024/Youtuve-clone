@@ -68,7 +68,7 @@ function Header({ setIsSearch, setSearchText }) {
         <MenuDrawer
           Icon={VideoCallIcon}
           SubIcon={BookmarkBorderIcon}
-          url={"https:/guntaro.blog"}
+          url={"https://guntaro.blog/"}
           title={"動画のアップロード"}
           content={"ショート動画"}
         />
@@ -76,7 +76,7 @@ function Header({ setIsSearch, setSearchText }) {
         <MenuDrawer
           Icon={WidgetsIcon}
           SubIcon={ThumbUpIcon}
-          url={"https:/ghttps://www.youtube.com/channel/UCKOgDGUgEJtkRFQMha9TyDQuntaro.blog"}
+          url={"https://www.youtube.com/channel/UCKOgDGUgEJtkRFQMha9TyDQ"}
           title={"ぐんたろのYoutubeへ"}
           content={"ぐんたろのブログへ"}
         />
@@ -84,7 +84,7 @@ function Header({ setIsSearch, setSearchText }) {
         <MenuDrawer
           Icon={NotificationsIcon}
           SubIcon={BookmarkBorderIcon}
-          url={"https:/guntaro.blog"}
+          url={"https://guntaro.blog/"}
           title={"通知"}
           content={"お問い合わせ"}
         />
@@ -92,7 +92,7 @@ function Header({ setIsSearch, setSearchText }) {
         <MenuDrawer
           Icon={Avatar}
           SubIcon={BookmarkBorderIcon}
-          url={"https:/guntaro.blog"}
+          url={"https://guntaro.blog/"}
           title={"プロフィールへ"}
           content={"ぐんたろのプロフィール"}
         />
